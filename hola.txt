@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,3 +14,8 @@
 </body>
 </html>
 </hola>
+=======
+hola
+como andan
+aguante yo
+>>>>>>> emergency-fix
