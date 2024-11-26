@@ -18,4 +18,8 @@
 hola
 como andan
 aguante yo
+<<<<<<< HEAD
+>>>>>>> emergency-fix
+=======
+quiero cambiar todo
 >>>>>>> emergency-fix
