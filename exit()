@@ -1,0 +1,38 @@
+[33mcommit c2d96a434d04715299b7251d9d8d84fc34b1b59c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Emiliano Segovia <segoviaemiliano769@gmail.com>
+Date:   Tue Nov 26 00:25:22 2024 -0300
+
+    Updated index.html with a new line
+
+[1mdiff --git a/hola.txt b/hola.txt[m
+[1mindex b8b4a4e..f761290 100644[m
+[1m--- a/hola.txt[m
+[1m+++ b/hola.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-hola[m
+\ No newline at end of file[m
+[32m+[m[32mhola[m
+[32m+[m[32mcomo andan[m
+\ No newline at end of file[m
+
+[33mcommit f075ffcb643d32df31dce92cac7efe48b0ec5980[m
+Author: Emiliano Segovia <segoviaemiliano769@gmail.com>
+Date:   Tue Nov 26 00:19:51 2024 -0300
+
+    hola mi gente
+
+[1mdiff --git a/hola.txt b/hola.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b8b4a4e[m
+[1m--- /dev/null[m
+[1m+++ b/hola.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhola[m
+\ No newline at end of file[m
+[1mdiff --git a/index.py b/index.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c6e8ada[m
+[1m--- /dev/null[m
+[1m+++ b/index.py[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mprint ("hola amigos de youtube")[m

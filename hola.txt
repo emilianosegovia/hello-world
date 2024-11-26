@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,3 +15,9 @@
 </body>
 </html>
 <chau>
+=======
+hola
+como andan
+soy emi
+me conocen
+>>>>>>> hello-world-images
